@@ -3,12 +3,12 @@ Status Report Support
 
 This repository contains supporting files that can help you create a status report. It is based on, copied from, and/or a version of the work from [Samman Technical Coaching](https://github.com/sammancoaching/daily-status/).
 
-The idea is that a tech leader can get help from a **GenAI** tool to create a report suitable for sharing with the team and their managers. The email will include a summary of what has happened, along with an image to represent it.
+The idea is that a tech leader can get help from a **GenAI** tool to create a report suitable for sharing with the team and their managers. The report will include a summary of what has happened, along with an image to represent it.
 
 ## How to Use This Repository
 
 1. Download a copy of the file `Status report guidelines for GenAI.txt`.
-2. Update the company name, website URL, and role fields in the first part of the prompt.
+2. Update the company name, website URL, role and department fields in the first part of the prompt.
 3. Create a new chat in a **GenAI** tool, upload the guidelines file, and prompt the tool to go through the process with you. For example, you could use this prompt:
    > Create a daily status report using the attached guidelines
 4. It could be helpful to use a speech-to-text interface so you can answer the **GenAI's** questions verbally instead of typing them.
